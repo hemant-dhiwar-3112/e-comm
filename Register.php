@@ -31,14 +31,14 @@
                     </div>
                     <div class="form-group">
                         <label for="Password" class="form-label">Password</label>
-                        <input type="new password" id="Password" class="form-control inputs in1" placeholder="Password"
+                        <input type="password" id="Password" class="form-control inputs in1" placeholder="Password"
                             name="pass">
                         <span class="material-symbols-outlined">lock</span>
                         <div id="mPassword" class="error"></div>
                     </div>
                     <div class="form-group">
                         <label for="Password" class="form-label">Conform-Password</label>
-                        <input type="new password" id="comPassword" class="form-control inputs in1"
+                        <input type="password" id="comPassword" class="form-control inputs in1"
                             placeholder="Conform-Password" name="compass">
                         <span class="material-symbols-outlined">lock</span>
                         <div id="mcomPassword" class="error"></div>
