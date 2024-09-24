@@ -17,7 +17,7 @@
                     </div>
                     <div class="form-group">
                         <label for="Password" class="form-label">Password</label>
-                        <input type="new password" id="Password" class="form-control inputs in1" placeholder="Password"
+                        <input type="password" id="Password" class="form-control inputs in1" placeholder="Password"
                             name="Password">
                         <span class="material-symbols-outlined">lock</span>
                     </div>
